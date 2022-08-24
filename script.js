@@ -12,12 +12,3 @@ const lastCharacters = function (string) {
 // console.log(lastCharacters("sometext"));
 
 // 3. Write a function that takes a number (a) as argument Split a into its individual digits and return them in an array.
-
-// function splitNumbers(a){
-//     return String(a).split("1234567").map(Number);
-//     }
-
-const splitNums = function (a) {
-    return String(a).split("1234567").map(Number);
-}
-console.log(Number);
